@@ -1,0 +1,18 @@
+{
+    "feed": [
+        "testPublishedFilePath1",
+        "testPublishedFilePath2"
+    ],
+    "users": [
+        {
+            "path": "testDirectoryPathUser1",
+            "userName": "Levi",
+            "filePaths": ["testFilePathUser1"]
+        },
+        {
+            "path": "testDirectoryPathUser2",
+            "userName": "Raven",
+            "filePaths": ["testFilePathUser2"]
+        }
+    ]
+}
