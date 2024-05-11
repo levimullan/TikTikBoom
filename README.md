@@ -2,7 +2,7 @@
 
 ## A high-stress photo sharing game
 
-**TickTickBoom** is a game in which Wizards will use strategic decision-making
+**TickTickBoom** is a game in which users will use strategic decision-making
 to minimize public humiliation.
 
 Each user will link import their mobile photos from a gallery into the app. At this point they will be able to view a
